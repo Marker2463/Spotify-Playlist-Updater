@@ -9,7 +9,7 @@ import spotipy.oauth2 as oauth2
 SPOTIPY_CLIENT_ID = 'YOUR_SPOTIFY_CLIENT_ID'
 SPOTIPY_CLIENT_SECRET = 'YOUR_SPOTIPY_CLIENT_SECRET'
 SPOTIPY_REDIRECT_URI = 'YOUR_SPOTIPY_REDIRECT_URI'
-playlist_url = "YOUR_playlist_url"
+playlist_url = "your_playlist_url"
 # Spotify username and scope
 USERNAME = 'YOUR_USERNAME'
 SCOPE = 'YOUR_SCOPE'
