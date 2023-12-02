@@ -10,10 +10,14 @@ Client secret
 Playlist ID https://open.spotify.com/playlist/ playlist ID
 Use http://localhost: 5000/callback as redirect uri
 Or any number 0 to 65353 as localhost
+
+
 Step 2
 Learn how to Set up python environment in termux
 Python - Termux Wiki
 How to Install Python on Termux (makeuseof.com)
+
+
 Step  3
 Make two python files 
 Copy paste code in each
